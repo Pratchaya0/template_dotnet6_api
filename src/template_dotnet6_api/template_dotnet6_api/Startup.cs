@@ -1,11 +1,9 @@
-﻿using Microsoft.AspNetCore.Diagnostics.HealthChecks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Prometheus;
 using Quartz;
 using template_dotnet6_api.Configurations;
 using template_dotnet6_api.Data;
-using template_dotnet6_api.Helpers;
 using template_dotnet6_api.Middlewares;
 using template_dotnet6_api.Startups;
 
