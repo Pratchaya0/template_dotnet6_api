@@ -1,4 +1,4 @@
-﻿namespace template_dotnet6_api.DTOs.Pagination
+﻿namespace template_dotnet6_api.DTOs
 {
     public class PaginationDto
     {

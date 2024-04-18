@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Serilog;
-using template_dotnet6_api.DTOs.Pagination;
+using template_dotnet6_api.DTOs;
 using template_dotnet6_api.Exceptions;
 
 namespace template_dotnet6_api.Models

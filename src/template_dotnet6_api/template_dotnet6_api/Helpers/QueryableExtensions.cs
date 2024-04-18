@@ -1,4 +1,4 @@
-﻿using template_dotnet6_api.DTOs.Pagination;
+﻿using template_dotnet6_api.DTOs;
 
 namespace template_dotnet6_api.Helpers
 {
