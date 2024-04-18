@@ -1,6 +1,7 @@
 ﻿using Quartz;
-using System.Runtime.CompilerServices;
 using template_dotnet6_api.Configurations;
+using template_dotnet6_api.HostedServices;
+using template_dotnet6_api.Startups;
 
 namespace template_dotnet6_api
 {
@@ -43,7 +44,7 @@ namespace template_dotnet6_api
             // TODO: แก้ Link
 
             // Job สำหรับการลบ Log ใน Database
-            // quartz.AddJobAndTrigger<LoggerRetentionJob>(quartzSetting);
+            quartz.AddJobAndTrigger<LoggerRetentionJob>(quartzSetting);
 
             return quartz;
         }

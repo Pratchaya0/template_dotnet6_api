@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\attributes\\validation\\contenttypevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\attributes\\validation\\contenttypevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\hostedservices\\loggerretentionjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\hostedservices\\loggerretentionjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\projectsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\projectsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\models\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\models\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\attributes\\validation\\contenttypevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\attributes\\validation\\contenttypevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\attributes\\validation\\filesizevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\attributes\\validation\\filesizevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\services\\base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\services\\base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\helpers\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\helpers\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\helpers\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\helpers\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\dtos\\pagination\\paginationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\dtos\\pagination\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\models\\base\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\models\\base\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\template_dotnet6_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\template_dotnet6_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\projectsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|solutionrelative:template_dotnet6_api\\projectsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{189469B7-5B79-4D29-A691-BD10D3B042D6}|template_dotnet6_api\\template_dotnet6_api.csproj|d:\\template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -146,11 +138,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggerRetentionJob.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\HostedServices\\LoggerRetentionJob.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\HostedServices\\LoggerRetentionJob.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\HostedServices\\LoggerRetentionJob.cs",
+              "RelativeToolTip": "template_dotnet6_api\\HostedServices\\LoggerRetentionJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:16:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\AutoMapperProfile.cs",
+              "RelativeToolTip": "template_dotnet6_api\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:08:47.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContentTypeValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
+              "RelativeToolTip": "template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:04:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
+              "RelativeToolTip": "template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:44:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectSetup.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\ProjectSetup.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\ProjectSetup.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\ProjectSetup.cs",
+              "RelativeToolTip": "template_dotnet6_api\\ProjectSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:35:24.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startup.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\Startup.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startup.cs",
+              "RelativeToolTip": "template_dotnet6_api\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:19:38.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Program.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\Program.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Program.cs",
+              "RelativeToolTip": "template_dotnet6_api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:41:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FileSizeValidatorAttribute.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Attributes\\Validation\\FileSizeValidatorAttribute.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Attributes\\Validation\\FileSizeValidatorAttribute.cs",
@@ -163,85 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContentTypeValidatorAttribute.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Attributes\\Validation\\ContentTypeValidatorAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:04:12.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IId.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Base\\IId.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Models\\Base\\IId.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Base\\IId.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Models\\Base\\IId.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:56:33.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Helpers\\HttpContextExtensions.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Helpers\\HttpContextExtensions.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Helpers\\HttpContextExtensions.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Helpers\\HttpContextExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:42:42.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceBase.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Services\\Base\\ServiceBase.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Services\\Base\\ServiceBase.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Services\\Base\\ServiceBase.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Services\\Base\\ServiceBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:25:09.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Models\\Response\\ServiceResponse.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAUwFYAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:44:43.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaginationDto.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
-              "RelativeToolTip": "template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:54:29.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PaginationResultDto.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\DTOs\\Pagination\\PaginationResultDto.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\DTOs\\Pagination\\PaginationResultDto.cs",
@@ -254,25 +259,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QueryableExtensions.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Helpers\\QueryableExtensions.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Helpers\\QueryableExtensions.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Helpers\\QueryableExtensions.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Helpers\\QueryableExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "DocumentIndex": 9,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
+              "RelativeToolTip": "template_dotnet6_api\\DTOs\\Pagination\\PaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:01:34.189Z",
+              "WhenOpened": "2024-04-17T02:54:29.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "template_dotnet6_api.csproj",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\template_dotnet6_api.csproj",
               "RelativeDocumentMoniker": "template_dotnet6_api\\template_dotnet6_api.csproj",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\template_dotnet6_api.csproj",
-              "RelativeToolTip": "template_dotnet6_api\\template_dotnet6_api.csproj",
+              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\template_dotnet6_api.csproj*",
+              "RelativeToolTip": "template_dotnet6_api\\template_dotnet6_api.csproj*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-17T01:43:04.747Z",
@@ -281,19 +286,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Program.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Program.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Program.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T01:41:55.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\appsettings.json",
               "RelativeDocumentMoniker": "template_dotnet6_api\\appsettings.json",
@@ -306,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "template_dotnet6_api\\appsettings.Development.json",
@@ -319,33 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProjectSetup.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\ProjectSetup.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\ProjectSetup.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\ProjectSetup.cs",
-              "RelativeToolTip": "template_dotnet6_api\\ProjectSetup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T04:35:24.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startup.cs",
-              "RelativeDocumentMoniker": "template_dotnet6_api\\Startup.cs",
-              "ToolTip": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startup.cs",
-              "RelativeToolTip": "template_dotnet6_api\\Startup.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:19:38.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Properties\\launchSettings.json",
@@ -357,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "SwaggerServices.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startups\\SwaggerServices.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Startups\\SwaggerServices.cs",
@@ -369,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "QuartServices.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Startups\\QuartServices.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Startups\\QuartServices.cs",
@@ -381,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "ValidateModelFilter.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Middlewares\\ValidateModelFilter.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Middlewares\\ValidateModelFilter.cs",
@@ -393,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Middlewares\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Middlewares\\RequestLoggingMiddleware.cs",
@@ -405,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "ErrorFilter.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Middlewares\\ErrorFilter.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Middlewares\\ErrorFilter.cs",
@@ -417,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Controllers\\ValuesController.cs",
@@ -429,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "serviceDependencies.json",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Properties\\serviceDependencies.json",
@@ -441,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "InvalidGUIDException.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\InvalidGUIDException.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\InvalidGUIDException.cs",
@@ -453,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "NullException.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\NullException.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\NullException.cs",
@@ -465,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "HealthCheckResponseWriter.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Helpers\\HealthCheckResponseWriter.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Helpers\\HealthCheckResponseWriter.cs",
@@ -477,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "ApiException.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\ApiException.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\ApiException.cs",
@@ -489,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "ProjectSetting.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Configurations\\ProjectSetting.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Configurations\\ProjectSetting.cs",
@@ -501,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Data\\AppDBContext.cs",
@@ -513,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "InvalidDateException.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\InvalidDateException.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\InvalidDateException.cs",
@@ -525,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\NotFoundException.cs",
@@ -537,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "AppExceptionBase.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Exceptions\\AppExceptionBase.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Exceptions\\AppExceptionBase.cs",
@@ -549,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "QuartzSetting.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Configurations\\QuartzSetting.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Configurations\\QuartzSetting.cs",
@@ -561,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "temp.cs",
               "DocumentMoniker": "D:\\Template\\template_dotnet6_api\\src\\template_dotnet6_api\\template_dotnet6_api\\Clients\\temp.cs",
               "RelativeDocumentMoniker": "template_dotnet6_api\\Clients\\temp.cs",
